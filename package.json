@@ -1,0 +1,19 @@
+{
+  "name": "@rao123dk/console-color",
+  "version": "1.0.0",
+  "description": "change console output colors ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rao123dk/console-color.git"
+  },
+  "author": "Dheeraj Kumar Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rao123dk/console-color/issues"
+  },
+  "homepage": "https://github.com/rao123dk/console-color#readme"
+}
