@@ -1,10 +1,11 @@
 {
   "name": "@rao123dk/console-color",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "change console output colors ",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs --compress --mangle -- src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rao123dk/console-color/issues"
   },
-  "homepage": "https://github.com/rao123dk/console-color#readme"
+  "homepage": "https://github.com/rao123dk/console-color#readme",
+  "files": [
+    "src/**/*"
+  ]
 }
