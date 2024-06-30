@@ -1,6 +1,6 @@
 {
   "name": "@rao123dk/console-color",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "change console output colors ",
   "main": "src/index.js",
   "scripts": {
@@ -19,5 +19,25 @@
   "homepage": "https://github.com/rao123dk/console-color#readme",
   "files": [
     "src/**/*"
-  ]
+  ],
+  "keywords":["console",
+    "console-color",
+    "console-colors",
+    "cli",
+    "cli-color",
+    "cli-colors",
+    "log-color",
+    "log-colors",
+    "colorize",
+    "colorize-console",
+    "colorize-cli",
+    "console-enhancement",
+    "terminal-color",
+    "terminal-colors",
+    "color-logger",
+    "javascript",
+    "nodejs",
+    "cli-logger",
+    "console-log",
+    "console-output"]
 }
